@@ -23,7 +23,6 @@ public class LetraONumero {
         }else{
             salida= "No es letra ni número";
         }
-        System.out.println(letra);
         return salida;
     }
     
